@@ -7,7 +7,7 @@ about:
   head: d183478
   archived: false
   latestVersion: v0.5.3-beta
-  collectedAt: 2026-09-04T19:55:29Z
+  collectedAt: 2026-09-04T20:44:50Z
 timeline:
   created: 2025-10-07
   lastCommit: 2026-08-30
@@ -83,5 +83,48 @@ total:
   openIssue: 11
   commit: 268
 ---
+path: /home/runner/.x-repo/github.com/eduardofuncao/squix
+collectedAt: 2026-09-04T20:44:53Z
+loc:
+  Go:
+    code: 13911
+    comments: 592
+    blanks: 2272
+    files: 101
+  Yaml:
+    code: 185
+    comments: 1
+    blanks: 31
+    files: 3
+  Sql:
+    code: 117
+    comments: 11
+    blanks: 10
+    files: 1
+  Nix:
+    code: 81
+    comments: 3
+    blanks: 13
+    files: 2
+  Sh:
+    code: 66
+    comments: 10
+    blanks: 18
+    files: 1
+  Makefile:
+    code: 19
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 579
+    blanks: 258
+    files: 9
+total:
+  code: 14574
+  comments: 1250
+  blanks: 2651
+  files: 118
 ---
 
