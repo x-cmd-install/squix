@@ -5,13 +5,13 @@ about:
   head: d183478
   archived: false
   latestVersion: "v0.5.3-beta"
-  collectedAt: 2026-09-07T05:31:22Z
+  collectedAt: 2026-09-07T18:57:16Z
 timeline:
   created: 2025-10-07
   lastCommit: 2026-08-30
   lastRelease: 2026-08-06
 popularity:
-  star: 268
+  star: 267
   watcher: 3
   fork: 19
   release: 13
@@ -82,7 +82,7 @@ total:
   commit: 268
 ---
 path: /home/runner/.x-repo/github.com/eduardofuncao/squix
-collectedAt: 2026-09-07T05:31:27Z
+collectedAt: 2026-09-07T18:57:20Z
 loc:
   Go:
     code: 13911
@@ -128,7 +128,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:28+00:00
+  collectedAt: 2026-09-07T18:57:21+00:00
   platform:
     darwin/arm64:
       name:  squix-darwin-arm64
