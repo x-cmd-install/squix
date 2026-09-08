@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 106652160,
       "digest": "sha256:8828fc53a4afa182cd1338a895f3af05cf2d17ff7f08cd0346eb17c158a0308f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-06T00:51:51Z",
       "updated_at": "2026-08-06T00:51:54Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-windows-amd64.exe"
