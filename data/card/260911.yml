@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.3-beta"
   latestRelease: "v0.5.3-beta"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:33:57Z
+  collectedAt: 2026-09-11T19:31:48Z
 timeline:
   created: 2025-10-07
   lastCommit: 2026-08-30
@@ -86,7 +86,7 @@ total:
   commit: 268
 ---
 path: /home/runner/.x-repo/github.com/eduardofuncao/squix
-collectedAt: 2026-09-11T05:34:00Z
+collectedAt: 2026-09-11T19:31:52Z
 loc:
   Go:
     code: 13911
