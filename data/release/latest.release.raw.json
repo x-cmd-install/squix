@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 106428632,
       "digest": "sha256:955737d1901347c4f8ad39983af754ea9508676f22516cda7042a39c7a95bc4e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-06T00:51:51Z",
       "updated_at": "2026-08-06T00:51:53Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-darwin-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 113020696,
       "digest": "sha256:5f180db8cf9f05e323161a6dca53477ccbf7c14850f47866f6464d4c4c973594",
-      "download_count": 45,
+      "download_count": 49,
       "created_at": "2026-08-06T00:51:51Z",
       "updated_at": "2026-08-06T00:51:53Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-linux-amd64"
