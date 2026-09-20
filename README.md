@@ -4,7 +4,7 @@
 
 A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
 
-![squix](https://repo.x-cmd.io/squix.svg)
+[![x-cmd/install — squix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/squix.svg)](https://x-cmd.com/install/squix)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **14,379** lines of code across **108** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 2 | 2 | 2 |
-| last60d | 2026-07-20 | 2 | 0 | 2 | 3 | 4 | 6 |
-| 90d | 2026-06-20 | 5 | 7 | 2 | 7 | 8 | 21 |
-| last180d | 2026-03-22 | 9 | 15 | 2 | 27 | 10 | 95 |
-| 360d | 2025-09-23 | 13 | 22 | 2 | 45 | 11 | 251 |
-| last720d | 2024-09-28 | 13 | 22 | 2 | 45 | 11 | 268 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 2 | 2 | 1 |
+| last60d | 2026-07-22 | 1 | 0 | 2 | 3 | 3 | 6 |
+| 90d | 2026-06-22 | 5 | 6 | 2 | 6 | 8 | 16 |
+| last180d | 2026-03-24 | 9 | 15 | 2 | 27 | 10 | 93 |
+| 360d | 2025-09-25 | 13 | 22 | 2 | 45 | 11 | 251 |
+| last720d | 2024-09-30 | 13 | 22 | 2 | 45 | 11 | 268 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:42:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:42:04Z._
