@@ -38,22 +38,22 @@ Total: **14,379** lines of code across **108** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 268 · **Forks**: 19 · **Open issues**: 56 · **Contributors**: 9
+- **Stars**: 269 · **Forks**: 19 · **Open issues**: 57 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 45 · **Open issues**: 11 · **Commits**: 268
+- **Releases**: 13 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 45 · **Open issues**: 12 · **Commits**: 268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 2 | 2 | 1 |
-| last60d | 2026-07-23 | 1 | 0 | 1 | 3 | 3 | 6 |
-| 90d | 2026-06-23 | 4 | 4 | 2 | 6 | 8 | 16 |
-| last180d | 2026-03-25 | 9 | 15 | 2 | 27 | 10 | 93 |
-| 360d | 2025-09-26 | 13 | 22 | 2 | 45 | 11 | 251 |
-| last720d | 2024-10-01 | 13 | 22 | 2 | 45 | 11 | 268 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 2 | 3 | 1 |
+| last60d | 2026-07-24 | 1 | 0 | 1 | 3 | 4 | 6 |
+| 90d | 2026-06-24 | 4 | 3 | 2 | 6 | 9 | 16 |
+| last180d | 2026-03-26 | 9 | 15 | 2 | 26 | 11 | 93 |
+| 360d | 2025-09-27 | 13 | 22 | 2 | 45 | 12 | 251 |
+| last720d | 2024-10-02 | 13 | 22 | 2 | 45 | 12 | 268 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:48:59Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:59Z._
