@@ -4,7 +4,7 @@
 
 A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
 
-[![x-cmd/install — squix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/squix.svg?lang=zh)](https://x-cmd.com/install/squix)
+[![x-cmd/install — squix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/squix.svg?lang=zh)](https://x-cmd.com/install/squix)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install squix
 
 ## 代码洞察
 
-合计: **14,379** 行代码（覆盖前 5 种语言、共 **108** 个文件）。
+合计: **14,581** 行代码（覆盖前 5 种语言、共 **108** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 13,911 | 592 | 2,272 | 101 |
-| Yaml | 185 | 1 | 31 | 3 |
+| Go | 14,035 | 600 | 2,301 | 101 |
+| Yaml | 227 | 1 | 31 | 3 |
 | Sql | 117 | 11 | 10 | 1 |
-| Nix | 81 | 3 | 13 | 2 |
-| Sh | 66 | 10 | 18 | 1 |
+| Nix | 100 | 5 | 17 | 2 |
+| Sh | 77 | 14 | 23 | 1 |
 
 ## 源代码
 
@@ -32,39 +32,49 @@ x install squix
 
 ## 发布
 
-- **最新版本**: `v0.5.3-beta` (2026-08-06)
-- **最近提交**: 2026-08-30
-- **Release 含资产**: 6 个
+- **最新版本**: `v0.5.4-beta` (2026-09-22)
+- **最近提交**: 2026-09-22
+- **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 269 · **Fork**: 19 · **开放 issue**: 57 · **贡献者**: 9
+- **Star**: 270 · **Fork**: 19 · **开放 issue**: 57 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 22 · **开放 PR**: 2 · **已关闭 issue**: 45 · **开放 issue**: 12 · **提交数**: 268
+- **发布数**: 14 · **已合并 PR**: 23 · **开放 PR**: 2 · **已关闭 issue**: 47 · **开放 issue**: 10 · **提交数**: 271
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 2 | 3 | 1 |
-| last60d | 2026-07-24 | 1 | 0 | 1 | 3 | 4 | 6 |
-| 90d | 2026-06-24 | 4 | 3 | 2 | 6 | 9 | 16 |
-| last180d | 2026-03-26 | 9 | 15 | 2 | 26 | 11 | 93 |
-| 360d | 2025-09-27 | 13 | 22 | 2 | 45 | 12 | 251 |
-| last720d | 2024-10-02 | 13 | 22 | 2 | 45 | 12 | 268 |
+| 30d | 2026-08-24 | 1 | 1 | 0 | 4 | 1 | 4 |
+| last60d | 2026-07-25 | 2 | 1 | 1 | 5 | 2 | 9 |
+| 90d | 2026-06-25 | 5 | 4 | 2 | 8 | 7 | 19 |
+| last180d | 2026-03-27 | 10 | 16 | 2 | 28 | 9 | 96 |
+| 360d | 2025-09-28 | 14 | 23 | 2 | 47 | 10 | 254 |
+| last720d | 2024-10-03 | 14 | 23 | 2 | 47 | 10 | 271 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/checksums.txt) | 428 B | `other` |
-| [squix-darwin-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-darwin-amd64) | 101.5 MiB | `native/darwin/x64` |
-| [squix-darwin-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-darwin-arm64) | 93.1 MiB | `native/darwin/arm64` |
-| [squix-linux-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-linux-amd64) | 107.8 MiB | `native/linux/x64` |
-| [squix-linux-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-linux-arm64) | 98.6 MiB | `native/linux/arm64` |
-| [squix-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.3-beta/squix-windows-amd64.exe) | 101.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/checksums.txt) | 1.3 KiB | `other` |
+| [squix-darwin-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-darwin-amd64) | 101.5 MiB | `native/darwin/x64` |
+| [squix-darwin-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-darwin-arm64) | 93.2 MiB | `native/darwin/arm64` |
+| [squix-linux-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-linux-amd64) | 107.8 MiB | `native/linux/x64` |
+| [squix-linux-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-linux-arm64) | 98.7 MiB | `native/linux/arm64` |
+| [squix-lite-darwin-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-darwin-amd64) | 19.0 MiB | `native/darwin/x64` |
+| [squix-lite-darwin-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-darwin-arm64) | 18.2 MiB | `native/darwin/arm64` |
+| [squix-lite-linux-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-linux-amd64) | 18.7 MiB | `native/linux/x64` |
+| [squix-lite-linux-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-linux-arm64) | 17.8 MiB | `native/linux/arm64` |
+| [squix-lite-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-windows-amd64.exe) | 19.1 MiB | `native/win/x64` |
+| [squix-minimal-darwin-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-darwin-amd64) | 12.2 MiB | `native/darwin/x64` |
+| [squix-minimal-darwin-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-darwin-arm64) | 11.6 MiB | `native/darwin/arm64` |
+| [squix-minimal-linux-amd64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-linux-amd64) | 11.9 MiB | `native/linux/x64` |
+| [squix-minimal-linux-arm64](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-linux-arm64) | 11.4 MiB | `native/linux/arm64` |
+| [squix-minimal-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-windows-amd64.exe) | 12.3 MiB | `native/win/x64` |
+| [squix-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-windows-amd64.exe) | 101.7 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -75,4 +85,4 @@ squix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:12:12Z._
