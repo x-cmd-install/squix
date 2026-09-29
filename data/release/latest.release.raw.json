@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1349,
       "digest": "sha256:4486f706b468b98f305190f3833dc255e28e62548cde4ec968b0db0aa24b99e1",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:36Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 106453248,
       "digest": "sha256:91fa1b5c2c66c14200b46b5c1f8d67f82e8d230c839c083f0b6d856ede2e38d5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:39Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 97726434,
       "digest": "sha256:180c09fb2a4e251f5d9b44c230c129c09477d7b9c5e42d5ffa62601eadb915d8",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:38Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 113049816,
       "digest": "sha256:2886a9c3c1bc1f30b16d7ddb29fa564faa9afcdae410ded6d44a33ca64bd43fc",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:38Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-linux-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19932400,
       "digest": "sha256:55f4462f4c8f15c759c7bc3226fd14ef04679c9d4fb175016ecda7282ad8811f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:36Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-darwin-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19055682,
       "digest": "sha256:122e85db6570a98e9cfacdff5a4d967c0f580921e08258f8bee1b24f2aa64c45",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:36Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-darwin-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 19595448,
       "digest": "sha256:d36da60fbde8474118648cb580e49d2b885c657883f538153d1b018d9b2120b5",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:36Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-lite-linux-amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12517560,
       "digest": "sha256:cd19bac1fe85681b03b5530b5ae34ffae99af3b8e1bad448a6c46e975306ce18",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-22T16:20:35Z",
       "updated_at": "2026-09-22T16:20:36Z",
       "browser_download_url": "https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-linux-amd64"
