@@ -33,7 +33,7 @@ Total: **14,581** lines of code across **108** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.4-beta` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-11-04
 - **Assets in release**: 16
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **14,581** lines of code across **108** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 23 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 10 · **Commits**: 271
+- **Releases**: 14 · **Merged PRs**: 23 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 10 · **Commits**: 272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 1 | 1 | 0 | 1 | 0 | 2 |
-| 90d | 2026-08-06 | 2 | 1 | 0 | 4 | 1 | 5 |
-| last180d | 2026-05-08 | 6 | 10 | 2 | 10 | 7 | 31 |
-| 360d | 2025-11-09 | 14 | 23 | 2 | 45 | 10 | 236 |
-| last720d | 2024-11-14 | 14 | 23 | 2 | 47 | 10 | 271 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 1 | 1 | 0 | 1 | 0 | 3 |
+| 90d | 2026-08-07 | 1 | 1 | 0 | 4 | 1 | 6 |
+| last180d | 2026-05-09 | 6 | 10 | 2 | 10 | 7 | 32 |
+| 360d | 2025-11-10 | 14 | 23 | 2 | 45 | 10 | 237 |
+| last720d | 2024-11-15 | 14 | 23 | 2 | 47 | 10 | 272 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:11:25Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:25:47Z._
