@@ -48,12 +48,12 @@ Total: **14,581** lines of code across **108** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-25 | 1 | 1 | 0 | 4 | 1 | 4 |
-| last180d | 2026-05-27 | 6 | 10 | 2 | 10 | 7 | 28 |
-| 360d | 2025-11-28 | 14 | 23 | 2 | 45 | 10 | 231 |
-| last720d | 2024-12-03 | 14 | 23 | 2 | 47 | 10 | 272 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-26 | 1 | 1 | 0 | 3 | 1 | 4 |
+| last180d | 2026-05-28 | 6 | 10 | 2 | 10 | 7 | 28 |
+| 360d | 2025-11-29 | 14 | 23 | 2 | 45 | 10 | 231 |
+| last720d | 2024-12-04 | 14 | 23 | 2 | 47 | 10 | 272 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:53:13Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:26:59Z._
