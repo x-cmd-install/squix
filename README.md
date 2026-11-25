@@ -48,12 +48,12 @@ Total: **14,581** lines of code across **108** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 1 | 1 | 0 | 3 | 1 | 4 |
-| last180d | 2026-05-28 | 6 | 10 | 2 | 10 | 7 | 28 |
-| 360d | 2025-11-29 | 14 | 23 | 2 | 45 | 10 | 231 |
-| last720d | 2024-12-04 | 14 | 23 | 2 | 47 | 10 | 272 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 1 | 1 | 0 | 2 | 1 | 4 |
+| last180d | 2026-05-29 | 6 | 10 | 2 | 10 | 7 | 28 |
+| 360d | 2025-11-30 | 14 | 23 | 2 | 45 | 10 | 231 |
+| last720d | 2024-12-05 | 14 | 23 | 2 | 47 | 10 | 272 |
 
 ## Release assets
 
@@ -76,14 +76,6 @@ Total: **14,581** lines of code across **108** files in the top 5 languages.
 | [squix-minimal-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-windows-amd64.exe) | 12.3 MiB | `native/win/x64` |
 | [squix-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-windows-amd64.exe) | 101.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/squix). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.0-beta` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `squix` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +85,4 @@ Install metadata for squix lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:26:59Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:29Z._

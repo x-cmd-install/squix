@@ -48,12 +48,12 @@ x install squix
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 1 | 1 | 0 | 3 | 1 | 4 |
-| last180d | 2026-05-28 | 6 | 10 | 2 | 10 | 7 | 28 |
-| 360d | 2025-11-29 | 14 | 23 | 2 | 45 | 10 | 231 |
-| last720d | 2024-12-04 | 14 | 23 | 2 | 47 | 10 | 272 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 1 | 1 | 0 | 2 | 1 | 4 |
+| last180d | 2026-05-29 | 6 | 10 | 2 | 10 | 7 | 28 |
+| 360d | 2025-11-30 | 14 | 23 | 2 | 45 | 10 | 231 |
+| last720d | 2024-12-05 | 14 | 23 | 2 | 47 | 10 | 272 |
 
 ## Release 资产
 
@@ -76,14 +76,6 @@ x install squix
 | [squix-minimal-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-minimal-windows-amd64.exe) | 12.3 MiB | `native/win/x64` |
 | [squix-windows-amd64.exe](https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-windows-amd64.exe) | 101.7 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/squix) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.5.0-beta` | ⚠️ outdated |
-
 ## 改进这些数据
 
 squix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `squix` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +85,4 @@ squix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:26:59Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:57:29Z._
